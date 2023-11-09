@@ -1,2 +1,2 @@
 # colours
-Docusaurus Demo SEO project
+Docusaurus Demo SEO Optimised Website
