@@ -48,7 +48,7 @@ const config = {
       // Declare some <meta> tags
       metadata: [
         {name: 'keywords', content: 'seo, docusaurus, demo, tutorial'},
-        {name: 'google-site-verification' content:'jo09MrSABL6EPqeOQqNKnQ_QP7vYOj1LGdK33I0Jh0A'},
+        {name: 'google-site-verification', content:'jo09MrSABL6EPqeOQqNKnQ_QP7vYOj1LGdK33I0Jh0A'},
       ],
       navbar: {
         title: 'SEO Docusaurus',
